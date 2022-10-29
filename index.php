@@ -1,17 +1,18 @@
 <?php
+
 /**
  * Main template file
  * 
  * @package Discova
  */
 
- get_header();
- ?>
+get_header();
+?>
 
 <div class="content">
- <h1> WordPress theme </h1>
+    <h1> WordPress theme </h1>
 </div>
 
-<?php 
+<?php
 
 get_footer();
